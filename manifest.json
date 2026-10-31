@@ -10,4 +10,20 @@
   "theme_color": "#ffffff",
   "description": "IslamicMotivationalStories",
   "id": "NoorStories"
+{
+  "name": "NoorStories",
+  "short_name": "NoorStories",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "IslamicMotivationalStories",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
